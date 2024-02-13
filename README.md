@@ -6,5 +6,5 @@ ___
 🏂 Fun fact: I've been snowboarding since I was 12-years old! I spend the majority of my winter weekends at Big Bear Mountain.  
 🏳️‍🌈 Pronouns: they/them 
 
-### Languages/Frameworks/Technologies
+### Technologies
 [![My Skills](https://skills.thijs.gg/icons?i=ruby,postgres,rails,react,js,git,html,css)](https://skills.thijs.gg)
