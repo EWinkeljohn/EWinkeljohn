@@ -1,7 +1,7 @@
 ### Hey there! Good to see ya 👋
 ___
 
-🥞 I am a full-stack software engineer with personal project experience in React and Ruby on Rails.  
+🥞 I am a full-stack software engineer with personal project experience in JacvaScript and Ruby on Rails.  
 💻 I am currently a Software Engineering Intern with Planet Argon, updating clients' Ruby on Rails applications and helping them avoid the BIG REWRITE.     
 🏂 Fun fact: I've been snowboarding since I was 12-years old! I spend the majority of my winter weekends at Big Bear Mountain.  
 🏳️‍🌈 Pronouns: they/them 
